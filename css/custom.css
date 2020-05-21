@@ -1,0 +1,166 @@
+/*font-family: 'PT Sans', sans-serif;*/
+
+body{
+	font-family: 'PT Sans', sans-serif;
+	color: #010101;
+}
+
+/*header start*/
+header {
+    background-color: #fcdb00;
+    padding: 10px 0;
+}
+h1{
+	font-weight: 700;
+	font-size: 32px;
+}
+h5{
+	font-weight: 400;
+	font-size: 20px;
+	color: #313841;
+	margin: 30px 0;
+}
+p{
+	font-weight: 400;
+	font-size: 16px;
+	color: #555555;
+}
+.logo{
+
+}
+.menu ul li a {
+    font-weight: 700;
+    font-size: 22px;
+    color: #010101 !important;
+    text-transform: capitalize;
+    padding: 0 40px !important;
+    transition: 0.5s;
+}
+.menu ul li:last-child a {
+	padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: #ffffff !important;
+}
+/*header end*/
+
+/*Carousel start*/
+.slider{
+	background-color: #fcdb00;
+}
+.carousel-indicators{
+	margin-bottom: 40px;
+}
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.slider-content{
+	padding: 40px 0 120px 0;
+}
+.text-area {
+    padding: 70px 0 35px 15px;
+}
+.logo-area{
+	padding-left: 15px;
+}
+.logo-area ul li a img{
+	margin-right: 35px;
+}
+.image-area{
+
+}
+/*Carousel end*/
+
+/*features start*/
+.features{
+	padding: 80px 0 100px 0;
+}
+.title h5{
+	letter-spacing: 1px;
+	word-spacing: 1px;
+}
+.m_t_70{
+	margin-top: 70px;
+}
+.f_img{
+
+}
+.f_content{
+
+}
+.f_content h2{
+	font-weight: 400;
+	font-size: 22px;
+	color: #010101;
+}
+.f_content p{
+	
+}
+/*features end*/
+
+/*contact start*/
+.contact{
+	padding: 80px 0 100px 0;
+	background-color: #010101;
+}
+.c_title{
+	letter-spacing: 1px;
+	word-spacing: 1px;
+}
+.c_title h1{
+	color: #fcdb00;
+}
+.c_title h5{
+	margin-bottom: 30px;
+}
+.btn_custom{
+	font-weight: 700;
+	background-color: #fcdb00;
+	padding:6px 20px;
+	text-transform: uppercase;
+	transition: 0.5s;
+}
+.btn_custom:hover{
+	color: #ffffff;
+}
+.social{
+	margin-top: 75px;
+}
+.social ul li{
+	 
+	margin-right: 30px !important;
+}
+.social ul li a i{
+	width: 42px;
+	height: 42px;
+	line-height: 42px;
+	border-radius: 5px;
+	background-color: #fcdb00;
+	font-size: 34px;
+	color: #010101;
+	transition: 0.5s
+}
+.social ul li a i:hover{
+	color: #ffffff;
+}
+/*contact end*/
+/*footer start*/
+.footer{
+	padding: 0 0 100px 0;
+	background-color: #010101;
+}
+.info{
+	margin-bottom: 30px;
+}
+.info ul li{
+	color: #ffffff;
+}
+.info ul li a{
+	color: #ffffff;
+}
+/*footer end*/
+
+
+
